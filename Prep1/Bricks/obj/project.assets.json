@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\Bricks\\Bricks.csproj",
+      "projectUniqueName": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\Bricks\\Bricks.csproj",
       "projectName": "Bricks",
-      "projectPath": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\Bricks\\Bricks.csproj",
+      "projectPath": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\Bricks\\Bricks.csproj",
       "packagesPath": "C:\\Users\\todor.zagorov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\Bricks\\obj\\",
+      "outputPath": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\Bricks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\todor.zagorov\\AppData\\Roaming\\NuGet\\NuGet.Config",

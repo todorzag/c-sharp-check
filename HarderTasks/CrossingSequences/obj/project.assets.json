@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\HarderTasks\\CrossingSequences\\CrossingSequences.csproj",
+      "projectUniqueName": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\HarderTasks\\CrossingSequences\\CrossingSequences.csproj",
       "projectName": "CrossingSequences",
-      "projectPath": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\HarderTasks\\CrossingSequences\\CrossingSequences.csproj",
+      "projectPath": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\HarderTasks\\CrossingSequences\\CrossingSequences.csproj",
       "packagesPath": "C:\\Users\\todor.zagorov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\HarderTasks\\CrossingSequences\\obj\\",
+      "outputPath": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\HarderTasks\\CrossingSequences\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\todor.zagorov\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\SumsStep3\\SumsStep3.csproj",
+      "projectUniqueName": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\SumsStep3\\SumsStep3.csproj",
       "projectName": "SumsStep3",
-      "projectPath": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\SumsStep3\\SumsStep3.csproj",
+      "projectPath": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\SumsStep3\\SumsStep3.csproj",
       "packagesPath": "C:\\Users\\todor.zagorov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\SumsStep3\\obj\\",
+      "outputPath": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\SumsStep3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\todor.zagorov\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\Sums3\\Sums3.csproj": {}
+    "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\Sums3\\Sums3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\Sums3\\Sums3.csproj": {
+    "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\Sums3\\Sums3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\Sums3\\Sums3.csproj",
+        "projectUniqueName": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\Sums3\\Sums3.csproj",
         "projectName": "Sums3",
-        "projectPath": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\Sums3\\Sums3.csproj",
+        "projectPath": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\Sums3\\Sums3.csproj",
         "packagesPath": "C:\\Users\\todor.zagorov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\Sums3\\obj\\",
+        "outputPath": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\Sums3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\todor.zagorov\\AppData\\Roaming\\NuGet\\NuGet.Config",

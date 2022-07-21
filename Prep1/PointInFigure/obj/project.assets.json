@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\PointInFigure\\PointInFigure.csproj",
+      "projectUniqueName": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\PointInFigure\\PointInFigure.csproj",
       "projectName": "PointInFigure",
-      "projectPath": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\PointInFigure\\PointInFigure.csproj",
+      "projectPath": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\PointInFigure\\PointInFigure.csproj",
       "packagesPath": "C:\\Users\\todor.zagorov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\todor.zagorov\\source\\repos\\tutorial-c-sharp\\Prep1\\PointInFigure\\obj\\",
+      "outputPath": "C:\\Users\\todor.zagorov\\source\\repos\\to-check\\Prep1\\PointInFigure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\todor.zagorov\\AppData\\Roaming\\NuGet\\NuGet.Config",
