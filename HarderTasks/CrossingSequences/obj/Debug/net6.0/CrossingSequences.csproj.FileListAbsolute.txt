@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\bin\Debug\net6.0\CrossingSequences.exe
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\bin\Debug\net6.0\CrossingSequences.deps.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\bin\Debug\net6.0\CrossingSequences.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\bin\Debug\net6.0\CrossingSequences.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\bin\Debug\net6.0\CrossingSequences.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\obj\Debug\net6.0\CrossingSequences.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\obj\Debug\net6.0\CrossingSequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\obj\Debug\net6.0\CrossingSequences.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\obj\Debug\net6.0\CrossingSequences.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\obj\Debug\net6.0\CrossingSequences.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\obj\Debug\net6.0\CrossingSequences.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\obj\Debug\net6.0\refint\CrossingSequences.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\obj\Debug\net6.0\CrossingSequences.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\obj\Debug\net6.0\CrossingSequences.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\HarderTasks\CrossingSequences\obj\Debug\net6.0\ref\CrossingSequences.dll

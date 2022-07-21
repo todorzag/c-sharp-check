@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\bin\Debug\net6.0\Bricks.exe
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\bin\Debug\net6.0\Bricks.deps.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\bin\Debug\net6.0\Bricks.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\bin\Debug\net6.0\Bricks.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\bin\Debug\net6.0\Bricks.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\obj\Debug\net6.0\Bricks.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\obj\Debug\net6.0\Bricks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\obj\Debug\net6.0\Bricks.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\obj\Debug\net6.0\Bricks.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\obj\Debug\net6.0\Bricks.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\obj\Debug\net6.0\Bricks.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\obj\Debug\net6.0\refint\Bricks.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\obj\Debug\net6.0\Bricks.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\obj\Debug\net6.0\Bricks.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Bricks\obj\Debug\net6.0\ref\Bricks.dll

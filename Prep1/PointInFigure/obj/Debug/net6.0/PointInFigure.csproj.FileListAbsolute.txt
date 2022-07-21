@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\bin\Debug\net6.0\PointInFigure.exe
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\bin\Debug\net6.0\PointInFigure.deps.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\bin\Debug\net6.0\PointInFigure.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\bin\Debug\net6.0\PointInFigure.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\bin\Debug\net6.0\PointInFigure.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\obj\Debug\net6.0\PointInFigure.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\obj\Debug\net6.0\PointInFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\obj\Debug\net6.0\PointInFigure.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\obj\Debug\net6.0\PointInFigure.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\obj\Debug\net6.0\PointInFigure.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\obj\Debug\net6.0\PointInFigure.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\obj\Debug\net6.0\refint\PointInFigure.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\obj\Debug\net6.0\PointInFigure.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\obj\Debug\net6.0\PointInFigure.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointInFigure\obj\Debug\net6.0\ref\PointInFigure.dll

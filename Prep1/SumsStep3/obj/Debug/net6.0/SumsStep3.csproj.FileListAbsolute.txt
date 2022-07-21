@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\bin\Debug\net6.0\SumsStep3.exe
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\bin\Debug\net6.0\SumsStep3.deps.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\bin\Debug\net6.0\SumsStep3.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\bin\Debug\net6.0\SumsStep3.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\bin\Debug\net6.0\SumsStep3.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\obj\Debug\net6.0\SumsStep3.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\obj\Debug\net6.0\SumsStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\obj\Debug\net6.0\SumsStep3.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\obj\Debug\net6.0\SumsStep3.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\obj\Debug\net6.0\SumsStep3.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\obj\Debug\net6.0\SumsStep3.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\obj\Debug\net6.0\refint\SumsStep3.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\obj\Debug\net6.0\SumsStep3.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\obj\Debug\net6.0\SumsStep3.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\SumsStep3\obj\Debug\net6.0\ref\SumsStep3.dll

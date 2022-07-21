@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\bin\Debug\net6.0\Increasing4Nums.exe
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\bin\Debug\net6.0\Increasing4Nums.deps.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\bin\Debug\net6.0\Increasing4Nums.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\bin\Debug\net6.0\Increasing4Nums.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\bin\Debug\net6.0\Increasing4Nums.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\obj\Debug\net6.0\Increasing4Nums.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\obj\Debug\net6.0\Increasing4Nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\obj\Debug\net6.0\Increasing4Nums.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\obj\Debug\net6.0\Increasing4Nums.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\obj\Debug\net6.0\Increasing4Nums.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\obj\Debug\net6.0\Increasing4Nums.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\obj\Debug\net6.0\refint\Increasing4Nums.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\obj\Debug\net6.0\Increasing4Nums.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\obj\Debug\net6.0\Increasing4Nums.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\Increasing4Nums\obj\Debug\net6.0\ref\Increasing4Nums.dll

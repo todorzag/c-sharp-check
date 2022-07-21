@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\bin\Debug\net6.0\TriangleArea.exe
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\bin\Debug\net6.0\TriangleArea.deps.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\bin\Debug\net6.0\TriangleArea.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\bin\Debug\net6.0\TriangleArea.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\bin\Debug\net6.0\TriangleArea.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\obj\Debug\net6.0\TriangleArea.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\obj\Debug\net6.0\TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\obj\Debug\net6.0\TriangleArea.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\obj\Debug\net6.0\TriangleArea.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\obj\Debug\net6.0\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\obj\Debug\net6.0\TriangleArea.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\obj\Debug\net6.0\refint\TriangleArea.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\obj\Debug\net6.0\TriangleArea.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\obj\Debug\net6.0\TriangleArea.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\TriangleArea\obj\Debug\net6.0\ref\TriangleArea.dll

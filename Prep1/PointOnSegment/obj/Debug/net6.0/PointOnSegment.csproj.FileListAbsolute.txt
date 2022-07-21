@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\bin\Debug\net6.0\PointOnSegment.exe
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\bin\Debug\net6.0\PointOnSegment.deps.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\bin\Debug\net6.0\PointOnSegment.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\bin\Debug\net6.0\PointOnSegment.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\bin\Debug\net6.0\PointOnSegment.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\obj\Debug\net6.0\PointOnSegment.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\obj\Debug\net6.0\PointOnSegment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\obj\Debug\net6.0\PointOnSegment.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\obj\Debug\net6.0\PointOnSegment.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\obj\Debug\net6.0\PointOnSegment.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\obj\Debug\net6.0\PointOnSegment.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\obj\Debug\net6.0\refint\PointOnSegment.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\obj\Debug\net6.0\PointOnSegment.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\obj\Debug\net6.0\PointOnSegment.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\PointOnSegment\obj\Debug\net6.0\ref\PointOnSegment.dll

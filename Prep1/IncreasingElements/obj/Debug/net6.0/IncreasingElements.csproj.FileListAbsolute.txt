@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\bin\Debug\net6.0\IncreasingElements.exe
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\bin\Debug\net6.0\IncreasingElements.deps.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\bin\Debug\net6.0\IncreasingElements.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\bin\Debug\net6.0\IncreasingElements.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\bin\Debug\net6.0\IncreasingElements.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\obj\Debug\net6.0\IncreasingElements.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\obj\Debug\net6.0\IncreasingElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\obj\Debug\net6.0\IncreasingElements.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\obj\Debug\net6.0\IncreasingElements.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\obj\Debug\net6.0\IncreasingElements.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\obj\Debug\net6.0\IncreasingElements.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\obj\Debug\net6.0\refint\IncreasingElements.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\obj\Debug\net6.0\IncreasingElements.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\obj\Debug\net6.0\IncreasingElements.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep1\IncreasingElements\obj\Debug\net6.0\ref\IncreasingElements.dll
