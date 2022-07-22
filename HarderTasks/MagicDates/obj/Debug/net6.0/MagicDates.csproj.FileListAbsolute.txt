@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\bin\Debug\net6.0\MagicDates.exe
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\bin\Debug\net6.0\MagicDates.deps.json
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\bin\Debug\net6.0\MagicDates.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\bin\Debug\net6.0\MagicDates.dll
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\bin\Debug\net6.0\MagicDates.pdb
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\obj\Debug\net6.0\MagicDates.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\obj\Debug\net6.0\MagicDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\obj\Debug\net6.0\MagicDates.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\obj\Debug\net6.0\MagicDates.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\obj\Debug\net6.0\MagicDates.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\obj\Debug\net6.0\MagicDates.dll
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\obj\Debug\net6.0\refint\MagicDates.dll
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\obj\Debug\net6.0\MagicDates.pdb
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\obj\Debug\net6.0\MagicDates.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\MagicDates\obj\Debug\net6.0\ref\MagicDates.dll
