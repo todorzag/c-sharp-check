@@ -40,15 +40,12 @@ namespace MagicDates
             int[] arr = GetIntArray(dateNum);
             int currMagicNum = 0;
 
-            int counter = 1;
-
             for (int i = 0; i < arr.Length; i++)
             {
-                for (int j = counter; j < arr.Length; j++)
+                for (int j = i + 1; j < arr.Length; j++)
                 {
                     currMagicNum += arr[i] * arr[j];
                 }
-                counter++;
             }
 
             return currMagicNum == magicNum;
