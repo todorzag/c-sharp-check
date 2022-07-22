@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\bin\Debug\net6.0\ChangeTiles.exe
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\bin\Debug\net6.0\ChangeTiles.deps.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\bin\Debug\net6.0\ChangeTiles.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\bin\Debug\net6.0\ChangeTiles.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\bin\Debug\net6.0\ChangeTiles.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\obj\Debug\net6.0\ChangeTiles.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\obj\Debug\net6.0\ChangeTiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\obj\Debug\net6.0\ChangeTiles.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\obj\Debug\net6.0\ChangeTiles.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\obj\Debug\net6.0\ChangeTiles.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\obj\Debug\net6.0\ChangeTiles.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\obj\Debug\net6.0\refint\ChangeTiles.dll
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\obj\Debug\net6.0\ChangeTiles.pdb
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\obj\Debug\net6.0\ChangeTiles.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\tutorial-c-sharp\Prep2\ChangeTiles\obj\Debug\net6.0\ref\ChangeTiles.dll

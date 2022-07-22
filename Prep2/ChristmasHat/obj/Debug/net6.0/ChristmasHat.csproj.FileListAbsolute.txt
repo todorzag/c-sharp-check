@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\bin\Debug\net6.0\ChristmasHat.exe
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\bin\Debug\net6.0\ChristmasHat.deps.json
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\bin\Debug\net6.0\ChristmasHat.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\bin\Debug\net6.0\ChristmasHat.dll
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\bin\Debug\net6.0\ChristmasHat.pdb
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\obj\Debug\net6.0\ChristmasHat.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\obj\Debug\net6.0\ChristmasHat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\obj\Debug\net6.0\ChristmasHat.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\obj\Debug\net6.0\ChristmasHat.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\obj\Debug\net6.0\ChristmasHat.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\obj\Debug\net6.0\ChristmasHat.dll
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\obj\Debug\net6.0\refint\ChristmasHat.dll
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\obj\Debug\net6.0\ChristmasHat.pdb
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\obj\Debug\net6.0\ChristmasHat.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\ChristmasHat\obj\Debug\net6.0\ref\ChristmasHat.dll

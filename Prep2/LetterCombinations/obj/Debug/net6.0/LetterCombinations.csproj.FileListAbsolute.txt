@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\bin\Debug\net6.0\LetterCombinations.exe
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\bin\Debug\net6.0\LetterCombinations.deps.json
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\bin\Debug\net6.0\LetterCombinations.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\bin\Debug\net6.0\LetterCombinations.dll
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\bin\Debug\net6.0\LetterCombinations.pdb
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\obj\Debug\net6.0\LetterCombinations.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\obj\Debug\net6.0\LetterCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\obj\Debug\net6.0\LetterCombinations.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\obj\Debug\net6.0\LetterCombinations.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\obj\Debug\net6.0\LetterCombinations.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\obj\Debug\net6.0\LetterCombinations.dll
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\obj\Debug\net6.0\refint\LetterCombinations.dll
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\obj\Debug\net6.0\LetterCombinations.pdb
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\obj\Debug\net6.0\LetterCombinations.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\to-check\Prep2\LetterCombinations\obj\Debug\net6.0\ref\LetterCombinations.dll
