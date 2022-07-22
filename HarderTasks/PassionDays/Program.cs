@@ -11,6 +11,8 @@ namespace PassionDays
 
             int purchases = 0;
 
+            action = WaitCommand(action);
+
             while (action != "mall.Exit")
             {
                 action = Console.ReadLine();
@@ -19,10 +21,8 @@ namespace PassionDays
 
                 char[] chars = action.ToCharArray();
 
-                for (int i = 0; i < chars.Length; i++)
+                foreach (char currChar in chars)
                 {
-                    char currChar = chars[i];
-
                     if (currChar == '%')
                     {
                         purchases++;
@@ -31,8 +31,8 @@ namespace PassionDays
                     else if (currChar == '*')
                     {
                         money += 10;
-                    } 
-                    else if (!Char.IsDigit(currChar))
+                    }
+                    else
                     {
                         decimal price = GetDiscount(currChar);
 
@@ -47,7 +47,14 @@ namespace PassionDays
                 }
             }
 
-            Console.WriteLine($"{purchases} purchases. Money left: {money:0.00} lv.");
+            if (purchases > 0)
+            {
+                Console.WriteLine($"{purchases} purchases. Money left: {money:0.00} lv.");
+            }
+            else
+            {
+                Console.WriteLine($"No purchases. Money left: {money:0.00} lv.");
+            }
         }
 
         private static decimal GetDiscount (char character)
@@ -58,12 +65,23 @@ namespace PassionDays
             {
                 asciiVal *= 0.30m;
             }
-            else
+            else if (Char.IsUpper(character))
             {
                 asciiVal *= 0.50m;
             }
 
+
             return asciiVal;
+        }
+
+        private static string WaitCommand (string action)
+        {
+            while (action != "mall.Enter")
+            {
+                action = Console.ReadLine();
+            }
+
+            return action;
         }
     }
 }
