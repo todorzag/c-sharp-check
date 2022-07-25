@@ -26,7 +26,7 @@ namespace CrossingSequences
             int tribCurr = trib3;
             List<int> tribonacci = new List<int> { trib1, trib2, trib3 };
 
-            while (tribCurr < 1000000)
+            while (tribCurr <= 1000000)
             {
                 tribCurr = trib1 + trib2 + trib3;
 
@@ -47,7 +47,7 @@ namespace CrossingSequences
             int spiralCount = 0;
             int spiralStepMul = 1;
 
-            while (spiralCurr < 1000000)
+            while (spiralCurr <= 1000000)
             {
                 spiralCurr += spiralStep * spiralStepMul;
 
