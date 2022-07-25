@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\bin\Debug\net6.0\XExpression.exe
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\bin\Debug\net6.0\XExpression.deps.json
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\bin\Debug\net6.0\XExpression.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\bin\Debug\net6.0\XExpression.dll
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\bin\Debug\net6.0\XExpression.pdb
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\obj\Debug\net6.0\XExpression.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\obj\Debug\net6.0\XExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\obj\Debug\net6.0\XExpression.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\obj\Debug\net6.0\XExpression.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\obj\Debug\net6.0\XExpression.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\obj\Debug\net6.0\XExpression.dll
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\obj\Debug\net6.0\refint\XExpression.dll
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\obj\Debug\net6.0\XExpression.pdb
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\obj\Debug\net6.0\XExpression.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\XExpression\obj\Debug\net6.0\ref\XExpression.dll
