@@ -5,7 +5,15 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrossingSequences", "CrossingSequences\CrossingSequences.csproj", "{9FDA05CA-1DB7-4277-95E3-2F8584D6CEEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicDates", "MagicDates\MagicDates.csproj", "{E94D7BF6-4EF2-4EF2-9236-4C661E90C8BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicDates", "MagicDates\MagicDates.csproj", "{E94D7BF6-4EF2-4EF2-9236-4C661E90C8BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassionDays", "PassionDays\PassionDays.csproj", "{2F8CC4B8-D9E0-4114-AF5D-5AF690F4A603}"
+EndProject
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XExpression", "XExpression\XExpression.csproj", "{9C513852-B361-4CBE-B8E4-E30E0385932B}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XExpession", "XExpession\XExpession.csproj", "{D8B8AF02-A5C5-4989-8731-EBAD35A2AA79}"
+>>>>>>> 32a8463a754077adfb2f9e7d3deac4a7a580de51
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,21 @@ Global
 		{E94D7BF6-4EF2-4EF2-9236-4C661E90C8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E94D7BF6-4EF2-4EF2-9236-4C661E90C8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E94D7BF6-4EF2-4EF2-9236-4C661E90C8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8CC4B8-D9E0-4114-AF5D-5AF690F4A603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8CC4B8-D9E0-4114-AF5D-5AF690F4A603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8CC4B8-D9E0-4114-AF5D-5AF690F4A603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8CC4B8-D9E0-4114-AF5D-5AF690F4A603}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+		{9C513852-B361-4CBE-B8E4-E30E0385932B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C513852-B361-4CBE-B8E4-E30E0385932B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C513852-B361-4CBE-B8E4-E30E0385932B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C513852-B361-4CBE-B8E4-E30E0385932B}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{D8B8AF02-A5C5-4989-8731-EBAD35A2AA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B8AF02-A5C5-4989-8731-EBAD35A2AA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B8AF02-A5C5-4989-8731-EBAD35A2AA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B8AF02-A5C5-4989-8731-EBAD35A2AA79}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 32a8463a754077adfb2f9e7d3deac4a7a580de51
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

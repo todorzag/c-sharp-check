@@ -1,0 +1,15 @@
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\bin\Debug\net6.0\PassionDays.exe
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\bin\Debug\net6.0\PassionDays.deps.json
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\bin\Debug\net6.0\PassionDays.runtimeconfig.json
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\bin\Debug\net6.0\PassionDays.dll
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\bin\Debug\net6.0\PassionDays.pdb
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\obj\Debug\net6.0\PassionDays.csproj.AssemblyReference.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\obj\Debug\net6.0\PassionDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\obj\Debug\net6.0\PassionDays.AssemblyInfoInputs.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\obj\Debug\net6.0\PassionDays.AssemblyInfo.cs
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\obj\Debug\net6.0\PassionDays.csproj.CoreCompileInputs.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\obj\Debug\net6.0\PassionDays.dll
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\obj\Debug\net6.0\refint\PassionDays.dll
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\obj\Debug\net6.0\PassionDays.pdb
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\obj\Debug\net6.0\PassionDays.genruntimeconfig.cache
+C:\Users\todor.zagorov\source\repos\to-check\HarderTasks\PassionDays\obj\Debug\net6.0\ref\PassionDays.dll
