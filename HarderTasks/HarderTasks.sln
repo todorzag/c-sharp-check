@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicDates", "MagicDates\Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassionDays", "PassionDays\PassionDays.csproj", "{2F8CC4B8-D9E0-4114-AF5D-5AF690F4A603}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XExpression", "XExpression\XExpression.csproj", "{EF316F31-8FC5-45AC-84A5-052291EE6921}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XExpession", "XExpession\XExpession.csproj", "{D8B8AF02-A5C5-4989-8731-EBAD35A2AA79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{2F8CC4B8-D9E0-4114-AF5D-5AF690F4A603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F8CC4B8-D9E0-4114-AF5D-5AF690F4A603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F8CC4B8-D9E0-4114-AF5D-5AF690F4A603}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EF316F31-8FC5-45AC-84A5-052291EE6921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EF316F31-8FC5-45AC-84A5-052291EE6921}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EF316F31-8FC5-45AC-84A5-052291EE6921}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EF316F31-8FC5-45AC-84A5-052291EE6921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B8AF02-A5C5-4989-8731-EBAD35A2AA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B8AF02-A5C5-4989-8731-EBAD35A2AA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B8AF02-A5C5-4989-8731-EBAD35A2AA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B8AF02-A5C5-4989-8731-EBAD35A2AA79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
