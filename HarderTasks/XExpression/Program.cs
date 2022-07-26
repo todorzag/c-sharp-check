@@ -18,28 +18,16 @@ namespace XExpression
             {
                 if (symbol == '(')
                 {
-                    decimal innerResult = Parentases(ref expression, ref symbol, ref index);
+                    (decimal innerResult, index) = GetParantasesOperationResult(expression, index);
 
-                    switch (operation)
-                    {
-                        case '+':
-                            result += innerResult;
-                            break;
-                        case '-':
-                            result -= innerResult;
-                            break;
-                        case '*':
-                            result *= innerResult;
-                            break;
-                        case '/':
-                            result /= innerResult;
-                            break;
-                    }
+                    symbol = expression[index];
+
+                    result = NormalSwitch(operation, result, innerResult);
 
                 }
                 else if (char.IsDigit(symbol))
                 {
-                    Switch(operation, ref result, symbol);
+                    result = SwitchWithSymbol(operation, result, symbol);
                 }
                 else
                 {
@@ -53,34 +41,39 @@ namespace XExpression
             Console.WriteLine($"{result:0.00}");
         }
 
-        private static decimal Parentases(ref string expression, ref char symbol, ref int index)
+        private static (decimal, int) GetParantasesOperationResult(string expression, int index)
         {
             decimal innerResult = 0;
             char innerOperator = '+';
             index++;
-            symbol = expression[index];
+            char currentSymbol = expression[index];
 
-            while (symbol != ')')
+            while (currentSymbol != ')')
             {
-                if (char.IsDigit(symbol))
+                if (char.IsDigit(currentSymbol))
                 {
-                    Switch(innerOperator, ref innerResult, symbol);
+                    innerResult = SwitchWithSymbol(innerOperator, innerResult, currentSymbol);
+                }
+                else if (currentSymbol == '(')
+                {
+                    (decimal recursionResult, index)  = GetParantasesOperationResult(expression, index);
+
+                    innerResult = NormalSwitch(innerOperator, innerResult, recursionResult);
                 }
                 else
                 {
-                    innerOperator = symbol;
+                    innerOperator = currentSymbol;
                 }
 
                 index++;
-                symbol = expression[index];
+                currentSymbol = expression[index];
             }
 
-            return innerResult;
+            return (innerResult, index);
         }
 
-        private static void Switch(char operation, ref decimal result, char symbol)
+        private static decimal SwitchWithSymbol(char operation, decimal result, char symbol)
         {
-
             switch (operation)
             {
                 case '+':
@@ -96,6 +89,29 @@ namespace XExpression
                     result /= symbol - '0';
                     break;
             }
+
+            return result;
+        }
+
+        private static decimal NormalSwitch(char operation, decimal mainResult, decimal secondaryResult)
+        {
+            switch (operation)
+            {
+                case '+':
+                    mainResult += secondaryResult;
+                    break;
+                case '-':
+                    mainResult -= secondaryResult;
+                    break;
+                case '*':
+                    mainResult *= secondaryResult;
+                    break;
+                case '/':
+                    mainResult /= secondaryResult;
+                    break;
+            }
+
+            return mainResult;
         }
     }
 }

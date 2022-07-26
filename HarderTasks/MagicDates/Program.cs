@@ -8,23 +8,19 @@ namespace MagicDates
     {
         static void Main(string[] args)
         {
-            int startYear = int.Parse(Console.ReadLine());
-            int endYear = int.Parse(Console.ReadLine());
+            int yearStart = int.Parse(Console.ReadLine());
+            int yearEnd = int.Parse(Console.ReadLine());
             int magicNum = int.Parse(Console.ReadLine());
 
-            DateTime currentDate = new DateTime(startYear, 1, 1);
+            DateTime currentDate = new DateTime(yearStart, 1, 1);
 
             List<DateTime> magicDates = new List<DateTime>();
 
-            while (currentDate.Year <= endYear)
+            while (currentDate.Year <= yearEnd)
             {
-                string year = currentDate.Year.ToString();
-                string month = currentDate.Month < 0 ? currentDate.Month.ToString() : $"0{currentDate.Month}";
-                string day = currentDate.Day < 0 ? currentDate.Day.ToString() : $"0{currentDate.Day}";
+                string dateString = GetCurrentDateString(currentDate);
 
-                int dateNum = int.Parse(day + month + year);
-
-                if (CheckIfMagic(dateNum, magicNum))
+                if (CheckIfMagic(dateString, magicNum))
                 {
                     magicDates.Add(currentDate);
                 }
@@ -35,18 +31,17 @@ namespace MagicDates
             PrintDates(magicDates);
         }
 
-        private static bool CheckIfMagic (int dateNum, int magicNum)
+        private static bool CheckIfMagic (string dateString, int magicNum)
         {
-            int[] arr = GetIntArray(dateNum);
             int currMagicNum = 0;
 
             int counter = 1;
 
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < dateString.Length; i++)
             {
-                for (int j = counter; j < arr.Length; j++)
+                for (int j = counter; j < dateString.Length; j++)
                 {
-                    currMagicNum += arr[i] * arr[j];
+                    currMagicNum += ((int)(dateString[i]) - 48) * ((int)(dateString[j]) - 48);
                 }
                 counter++;
             }
@@ -54,21 +49,9 @@ namespace MagicDates
             return currMagicNum == magicNum;
         }
 
-        private static int[] GetIntArray(int num)
-        {
-            List<int> listOfInts = new List<int>();
-            while (num > 0)
-            {
-                listOfInts.Add(num % 10);
-                num = num / 10;
-            }
-            listOfInts.Reverse();
-            return listOfInts.ToArray();
-        }
-
         private static void PrintDates (List<DateTime> magicDates)
         {
-            if (HasDates(magicDates))
+            if (!HasDates(magicDates))
             {
                 foreach (DateTime date in magicDates)
                 {
@@ -81,14 +64,18 @@ namespace MagicDates
             }
         }
 
-        public static bool HasDates<T>(List<T> list)
+        private static bool HasDates<T>(List<T> list)
         {
-            if (list.Count == 0)
-            {
-                return false;
-            }
+            return list.Count == 0;
+        }
 
-            return true;
+        private static string GetCurrentDateString (DateTime currentDate)
+        {
+            string year = currentDate.Year.ToString();
+            string month = currentDate.Month < 10 ? $"0{currentDate.Month}" : currentDate.Month.ToString();
+            string day = currentDate.Day < 10 ? $"0{currentDate.Day}" : currentDate.Day.ToString();
+
+            return day + month + year;
         }
     }
 }

@@ -9,23 +9,19 @@ namespace PassionDays
             decimal money = decimal.Parse(Console.ReadLine());
             string action = Console.ReadLine();
 
-            int purchases = 0;
+            int numberOfPurchases = 0;
 
             action = WaitCommand(action);
 
             while (action != "mall.Exit")
             {
-                action = Console.ReadLine();
-
-                if (action == "mall.Exit") { break; };
-
                 char[] chars = action.ToCharArray();
 
                 foreach (char currChar in chars)
                 {
                     if (currChar == '%')
                     {
-                        purchases++;
+                        numberOfPurchases++;
                         money /= 2;
                     }
                     else if (currChar == '*')
@@ -36,20 +32,20 @@ namespace PassionDays
                     {
                         decimal price = GetDiscount(currChar);
 
-                        if (money < price)
+                        if (money > price)
                         {
-                            continue;
+                            numberOfPurchases++;
+                            money -= price;
                         }
-
-                        purchases++;
-                        money -= price;
                     }
                 }
+
+                action = Console.ReadLine();
             }
 
-            if (purchases > 0)
+            if (numberOfPurchases > 0)
             {
-                Console.WriteLine($"{purchases} purchases. Money left: {money:0.00} lv.");
+                Console.WriteLine($"{numberOfPurchases} purchases. Money left: {money:0.00} lv.");
             }
             else
             {
@@ -59,19 +55,19 @@ namespace PassionDays
 
         private static decimal GetDiscount (char character)
         {
-            decimal asciiVal = (int)character;
+            decimal discount = (int)character;
 
             if (Char.IsLower(character))
             {
-                asciiVal *= 0.30m;
+                discount *= 0.30m;
             }
             else if (Char.IsUpper(character))
             {
-                asciiVal *= 0.50m;
+                discount *= 0.50m;
             }
 
 
-            return asciiVal;
+            return discount;
         }
 
         private static string WaitCommand (string action)
@@ -80,6 +76,8 @@ namespace PassionDays
             {
                 action = Console.ReadLine();
             }
+
+            action = Console.ReadLine();
 
             return action;
         }
