@@ -8,6 +8,8 @@ namespace XExpression
         {
             string expression = Console.ReadLine();
 
+            ValidateParentheses(expression);
+
             decimal result = 0;
 
             int index = 0;
@@ -18,16 +20,18 @@ namespace XExpression
             {
                 if (symbol == '(')
                 {
-                    (decimal innerResult, index) = GetParantasesOperationResult(expression, index);
+                    decimal innerResult = GetParantasesOperationResult(expression, index);
+                    index = UpdateIndex(expression, index) - 1;
 
                     symbol = expression[index];
 
-                    result = NormalSwitch(operation, result, innerResult);
+                    result = GetOperationResult(operation, result, innerResult);
 
                 }
                 else if (char.IsDigit(symbol))
                 {
-                    result = SwitchWithSymbol(operation, result, symbol);
+                    int symbolInt = ToIntFromChar(symbol);
+                    result = GetOperationResult(operation, result, symbolInt);
                 }
                 else
                 {
@@ -41,7 +45,7 @@ namespace XExpression
             Console.WriteLine($"{result:0.00}");
         }
 
-        private static (decimal, int) GetParantasesOperationResult(string expression, int index)
+        private static decimal GetParantasesOperationResult(string expression, int index)
         {
             decimal innerResult = 0;
             char innerOperator = '+';
@@ -52,13 +56,15 @@ namespace XExpression
             {
                 if (char.IsDigit(currentSymbol))
                 {
-                    innerResult = SwitchWithSymbol(innerOperator, innerResult, currentSymbol);
+                    int currentSymbolInt = ToIntFromChar(currentSymbol);
+                    innerResult = GetOperationResult(innerOperator, innerResult, currentSymbolInt);
                 }
                 else if (currentSymbol == '(')
                 {
-                    (decimal recursionResult, index)  = GetParantasesOperationResult(expression, index);
+                    decimal recursionResult  = GetParantasesOperationResult(expression, index);
+                    index = UpdateIndex(expression, index);
 
-                    innerResult = NormalSwitch(innerOperator, innerResult, recursionResult);
+                    innerResult = GetOperationResult(innerOperator, innerResult, recursionResult);
                 }
                 else
                 {
@@ -69,31 +75,15 @@ namespace XExpression
                 currentSymbol = expression[index];
             }
 
-            return (innerResult, index);
+            return innerResult;
         }
 
-        private static decimal SwitchWithSymbol(char operation, decimal result, char symbol)
+        private static int ToIntFromChar(char c)
         {
-            switch (operation)
-            {
-                case '+':
-                    result += symbol - '0';
-                    break;
-                case '-':
-                    result -= symbol - '0';
-                    break;
-                case '*':
-                    result *= symbol - '0';
-                    break;
-                case '/':
-                    result /= symbol - '0';
-                    break;
-            }
-
-            return result;
+            return (int)Char.GetNumericValue(c);
         }
 
-        private static decimal NormalSwitch(char operation, decimal mainResult, decimal secondaryResult)
+        private static decimal GetOperationResult(char operation, decimal mainResult, decimal secondaryResult)
         {
             switch (operation)
             {
@@ -112,6 +102,64 @@ namespace XExpression
             }
 
             return mainResult;
+        }
+
+        private static void ValidateParentheses(string expression)
+        {
+            int counter = 0;
+
+            const string messsage = "Invalid Input";
+
+            foreach (char c in expression)
+            {
+                if (c == '(')
+                {
+                    counter++;
+                }
+                else if (c == ')' && counter == 0)
+                {
+                    Console.WriteLine(messsage);
+                    Environment.Exit(0);
+                }
+                else if (c == ')')
+                {
+                    counter--;
+                }
+            }
+
+            if (counter < 0)
+            {
+                Console.WriteLine(messsage);
+                Environment.Exit(0);
+            }
+        }
+
+        private static int UpdateIndex(string expression, int index)
+        {
+            int counter = 1;
+
+            index++;
+
+            for (; index < expression.Length; index++)
+            {
+                char currentChar = expression[index];
+               
+                if (currentChar == '(')
+                {
+                    counter++;
+                }
+                else if (currentChar == ')')
+                {
+                    counter--;
+                }
+
+                if (counter == 0)
+                {
+                    return index;
+                }
+            }
+
+            return -1;
         }
     }
 }

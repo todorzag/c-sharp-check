@@ -19,24 +19,27 @@ namespace PassionDays
 
                 foreach (char currChar in chars)
                 {
-                    if (currChar == '%')
+                    switch (currChar)
                     {
-                        numberOfPurchases++;
-                        money /= 2;
-                    }
-                    else if (currChar == '*')
-                    {
-                        money += 10;
-                    }
-                    else
-                    {
-                        decimal price = GetDiscount(currChar);
-
-                        if (money > price)
-                        {
+                        case '%':
                             numberOfPurchases++;
-                            money -= price;
-                        }
+                            money /= 2;
+                            break;
+
+                        case '*':
+                            money += 10;
+                            break;
+
+                        default:
+                            decimal price = GetDiscount(currChar);
+
+                            if (money > price)
+                            {
+                                numberOfPurchases++;
+                                money -= price;
+                            }
+
+                            break;
                     }
                 }
 

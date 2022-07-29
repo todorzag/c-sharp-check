@@ -35,15 +35,15 @@ namespace MagicDates
         {
             int currMagicNum = 0;
 
-            int counter = 1;
+            int iterationIndex = 1;
 
             for (int i = 0; i < dateString.Length; i++)
             {
-                for (int j = counter; j < dateString.Length; j++)
+                for (int j = iterationIndex; j < dateString.Length; j++)
                 {
-                    currMagicNum += ((int)(dateString[i]) - 48) * ((int)(dateString[j]) - 48);
+                    currMagicNum += (ToIntFromChar(dateString[i])) * (ToIntFromChar(dateString[j]));
                 }
-                counter++;
+                iterationIndex++;
             }
 
             return currMagicNum == magicNum;
@@ -76,6 +76,11 @@ namespace MagicDates
             string day = currentDate.Day < 10 ? $"0{currentDate.Day}" : currentDate.Day.ToString();
 
             return day + month + year;
+        }
+
+        private static int ToIntFromChar(char c)
+        {
+            return (int)Char.GetNumericValue(c);
         }
     }
 }
